@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nnarahchibuike
+- 👋 Hi, I’m Chibi
 - 👀 I’m interested in building and shipping worldclass softwares that solve real world problems
 - 🌱 I’m currently learning flutter and solidity
 - 💞️ I’m looking to collaborate on mobile applications development, web3 projects, integrating of web3 technologies with web2
